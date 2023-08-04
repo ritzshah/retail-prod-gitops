@@ -7,5 +7,5 @@ bases:
 
 namespace: "retail-prod-rhods-project"
 
-patches:
+patchesStrategicMerge:
 - ./deployment-patches.yaml
